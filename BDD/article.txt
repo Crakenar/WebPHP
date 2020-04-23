@@ -1,0 +1,4 @@
+1|Bleu|2019-01-01|contenuActuBleu|articleBleu.jpg
+2|Rouge|2019-02-02|contenuActuRouge|articleRouge.jpg
+3|Vert|2019-03-03|contenuActuVert|articleVert.jpg
+4|Jaune|2019-04-04|contenuActuJaune|articleJaune.jpg

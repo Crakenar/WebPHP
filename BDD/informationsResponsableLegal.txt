@@ -1,0 +1,2 @@
+1|Kujo|Jotaro|0102030405|12
+2|Joestar|Joseph|0102030405|12

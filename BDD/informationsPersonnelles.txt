@@ -1,0 +1,12 @@
+1|Polnareff|Jean-Pierre|h|1965-12-19|72|188|true|true|0707070707
+2|Bihan|Baptiste|h|2000-07-31|40|100|false|true|0102030405
+3|Brando|Dio|h|1862-01-05|80|198|true|true|0000000000
+4|Breton|Emeric|f|2000-07-31|100|200|false|true|0203040506
+5|Buccellati|Bruno|h|1980-09-27|65|178|true|true|0522222222
+6|Joestar|Joseph|h|1920-09-27|80|198|true|true|0909090909
+7|Kakyoin|Noriaki|h|1971-07-31|65|178|true|true|0505050505
+8|Kujo|Jotaro|h|1971-03-05|70|195|true|true|0117171717
+9|Avdol|Mohammed|h|1960-05-29|80|195|true|true|0101010101
+10|Viellard|Bruno|f|2000-07-31|110|110|false|false|0304050607
+11|Dutreve|Calvin|h|2000-12-18|60|176|true|true|0908070605
+12|Berguerre|Téo|h|2009-07-25|40|110|true|false|0908070605

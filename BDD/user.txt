@@ -1,0 +1,12 @@
+1|silver|chariot|Jean-Pierre_Polnareff@mail.com|1|admin
+2|bihanb|army|Baptiste_Bihan@mail.com|2|adherent
+3|the|world|Dio_Brando@mail.com|3|adherent
+4|bretonem|money|Emeric_Breton@mail.com|4|adherent
+5|sticky|fingers|Bruno_Buccellati@mail.com|5|adherent
+6|hermit|purple|Joseph_Joestar@mail.com|6|moderateur
+7|hierophant|green|Noriaki_Kakyoin@mail.com|7|adherent
+8|star|platinum|Jotaro_Kujo@mail.com|8|adherent
+9|magician_s|red|Mohammed_Avdol@mail.com|9|adherent
+10|viellarb|blinko26|Bruno_Viellard@mail.com|10|adherent
+11|dutrevec|elcalvo|Calvin_Dutreve@mail.com|11|adherent
+12|berguert|crakenar|Teo_Berguerre@mail.com|12|adherent
