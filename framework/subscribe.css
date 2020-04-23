@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin:0;
+    background: rgba(167,26,26,.1);
+}
+
+form {
+  margin : 30px;
+  padding: 15px;
+  border:  2px solid #a71a1a;
+}
+
+form input{
+  margin-bottom: 10px;
+}
+
+.bouton {
+  background-color: #a71a1a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: auto;
+}
+
+.bouton:hover {
+  background-color: black;
+}
+
+
+h2 {
+  margin-left : 30px;
+}

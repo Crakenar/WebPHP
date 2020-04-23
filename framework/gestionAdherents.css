@@ -1,0 +1,79 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin:0px;
+    background: rgba(167,26,26,.1);
+}
+
+.imgBackground{
+  width: 100%;
+}
+
+h1 {
+  margin-left: 15px;
+}
+
+h2 {
+  margin-left: 15px;
+}
+
+img {vertical-align: middle;
+width: 100%;
+}
+
+table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%%;
+  margin-bottom: 50px;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table th {
+  text-align: left;
+  background-color: #a71a1a;
+  color: white;
+}
+
+td {
+    border: solid 2px;
+    border-radius: 2px;
+    border-color: cyan;
+    padding-right: 60px;
+}
+
+.bouton {
+  background-color: #a71a1a;
+  border: none;
+  color: white;
+  padding : 8px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: auto;
+}
+
+.bouton:hover {
+  background-color: black;
+}
+
+.adherent {
+  margin: 30px;
+}
+
+.adherent p{
+  margin: 30px;
+}
+
+
+
+.info{
+  margin : 15px;
+}

@@ -1,0 +1,60 @@
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+
+img {vertical-align: middle;
+width:100%;
+}
+
+.imgArticles{
+  width:25%;
+  height:25%
+}
+
+.actu{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article {
+  margin: 20px;
+  padding: 5px;
+  border-bottom: 3px solid #a71a1a;
+}
+
+article h2 {
+  font-size: 30px;
+}
+
+.titre {
+  color: black;
+  width: 200px;
+}
+
+.redaction {
+  color: white;
+  background-color:grey;
+  display: block;
+  margin: 5px;
+  padding: 20px;
+  border-radius: 5%;
+  width: 12em;
+  text-decoration: none;
+}
+
+.bouton {
+  color: white;
+  background-color: black;
+  display: block;
+  margin: 5px;
+  border-radius: 5%;
+}
+
+.bouton:hover {
+  color: white;
+  background-color: red;
+  display: block;
+  margin: 5px;
+  border-radius: 5%;
+}
